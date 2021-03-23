@@ -4,11 +4,17 @@ Display log message from serial port
 ## Configuration
   
 ### Display settings
-displayLines = 2;  // Nb of Lines
+// Nb of Lines
 
-displayLineSymbols = 16;  // Nb of Symbols
+displayLines = 2;  
 
-displayRsPin = 12, displayEnPin = 11, displayD4Pin = 5, displayD5Pin = 4, displayD6Pin = 3, displayD7Pin = 2;  // LCD Wiring
+// Nb of Symbols
+
+displayLineSymbols = 16;  
+
+// LCD Wiring
+
+displayRsPin = 12, displayEnPin = 11, displayD4Pin = 5, displayD5Pin = 4, displayD6Pin = 3, displayD7Pin = 2;  
 
 
 ### Repeat button settings
